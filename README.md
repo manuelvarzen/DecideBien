@@ -61,7 +61,7 @@ b) El conjunto de archivos comprimidos shape comprimidos en un archivo zip fuero
 Después de normalizar los datos y tener la tabla con los datos geográficos de las regiones, a través de la función de <> del Google Fusion Tables, fue posible extraer los datos de geo-referencia de la regiones y juntarlos con los datos de la tabla de <> de esta manera se dispuso de una tabla con información necesaria para el desarrollo de la aplicación. 
 Recién cuando obtuvimos esta nueva tabla fue posible generar dos visualizaciones a modo de prototipo: la primera de ellas de denominado en red y la segunda en un mapa. Posteriormente ambas visualizaciones fueron incrustadas en un sitio web actualmente inactivo. 
 
-RESULTADOS 
+##RESULTADOS 
 La primera visualización que se obtuvo fue la de red. En este tipo visualización se puede observar la relación existente entre dos nodos y el vector que los une. En ese sentido, seoptóo por seleccionar el campo PRODUCTO y el campo PROVINCIA seleccionando el campo TOTAL para indicar el valor del vector que uniría ambos nodos. [[Ver Imagen 1]]
 
 Imagen 1: Visualización de red en Google Fusion Tables 
@@ -70,7 +70,7 @@ Se obtiene pues una red de nodos relacionados entre sí que fácilmente explican
 
 La segunda visualización es un mapa con la división de las regiones y por cada una de las regiones, al interactuar con ellas, se puede observar como emerge un globo de información que presenta un diagrama de barras e indica a través del mismo cual ha sido la cantidad de productos que ha provenido de aquella región. 
 
-CONCLUSIONES 
+##CONCLUSIONES 
 La visualización de datos, desde diferentes perspectivas, ayuda al análisis y el ejercicio de observar la realidad a través de diferentes modelos de tal manera que las decisiones puedan tomarse de manera más racional o al menos con un número mayor de referencias. 
 
 Adicionalmente, la producción de los datos abiertos proporcionados por la Municipalidad de Lima son diversos y fragmentados y la construcción de una forma más sistemática y ordenada en su recolección y procesamiento es necesaria para construir sistemas de información más sólidos que permitan adoptar decisiones de manera más efectiva.  
